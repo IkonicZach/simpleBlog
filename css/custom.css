@@ -1,0 +1,11 @@
+.english {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background:url("../img/pattern.jpg");
+    background-size: contain;
+}
+.borderColor {
+    --bs-list-group-border-color: rgba(0, 0, 0, 0.125);
+}
